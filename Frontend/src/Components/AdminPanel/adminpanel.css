@@ -1,0 +1,18 @@
+/* Add styles for users list */
+.users-list {
+    margin-top: 20px;
+}
+
+.users-list h2 {
+    text-align: center;
+}
+
+.users-list ul {
+    list-style: none;
+    padding: 0;
+}
+
+.users-list li {
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+}
